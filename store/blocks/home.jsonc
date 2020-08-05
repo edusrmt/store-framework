@@ -114,8 +114,8 @@
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
       "link": {
-        "url": "/small-appliances/coffe-makers"
-      },
+        "url": "/small-appliances/coffee-makers"
+      } ,
       "alt": "Coffee Makers Collection",
       "maxWidth": "100%"
     }
